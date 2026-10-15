@@ -8,4 +8,5 @@ This is a monorepo containing the code for the separate parts of the project.
 2. ff-magpie-client (ROS2 Lyrical, Client Server)
 3. ff-magpie-cam (MaixCAM 2)
 4. ff-magpie-controller (ESP32)
+5. ff-magpie-safety (ATtiny13a)
 
